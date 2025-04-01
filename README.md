@@ -1,10 +1,10 @@
 # Syntactic-Processing: Healthcare-analysis-identify-entities
 In industry, Name Entity Recognition or NER has many dynamic applications such as:
 
-Search engines like Google
-Question answering systems like chatbot
-Medical and healthcare domain
-Text summarisation
+- Search engines like Google
+- Question answering systems like chatbot
+- Medical and healthcare domain
+- Text summarisation
 
 # Problem Statement
 Healthcare companies like BeHealthy generate vast amounts of medical data daily, including doctor’s notes, prescriptions, and patient reviews. However, this unstructured text often contains complex medical terminology that is difficult for non-medical professionals to understand. Identifying diseases and their corresponding treatments from such text can be challenging due to implicit references and domain-specific language.
