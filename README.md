@@ -1,4 +1,4 @@
-# Syntactic-Processing--healthcare-analysis-identify-entities
+# Syntactic-Processing: Healthcare-analysis-identify-entities
 In industry, Name Entity Recognition or NER has many dynamic applications such as:
 
 Search engines like Google
